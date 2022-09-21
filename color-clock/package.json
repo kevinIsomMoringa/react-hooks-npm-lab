@@ -1,0 +1,16 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "My first Custom package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World'",
+    "start": "serve"
+  },
+  "author": "kevinIsomMoringa",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.0.1"
+  }
+}
